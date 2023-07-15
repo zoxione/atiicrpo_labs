@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Main.DeuAdapter">
+    <Position X="5" Y="4" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAABAAAAAAAAAAAAAAAAIgAAAAAAAAAAIAAAIAA=</HashCode>
+      <FileName>DeuAdapter.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_communicationCenter" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Main.DeuCommunicationCenter">
+    <Position X="5" Y="6.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAIABAAACAAAAEAAAAAAABAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>DeuCommunicationCenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Main.EngCommunicationCenter">
+    <Position X="7.75" Y="4" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAABAAAAAAAAAgAAAAAAIgAAAAAAAAACIAAAAAA=</HashCode>
+      <FileName>EngCommunicationCenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Main.RusAdapter">
+    <Position X="10.5" Y="4" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAABAAAAAAAAAAAAAAAAIgAAAAAAAAAAIAAAIAA=</HashCode>
+      <FileName>RusAdapter.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_communicationCenter" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Main.RusCommunicationCenter">
+    <Position X="10.5" Y="6.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAQAAAAAIAAAAAQQAAgA=</HashCode>
+      <FileName>RusCommunicationCenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Main.CommunicationCenter">
+    <Position X="7.75" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAABAAAAAAAAAAAAAAAAIgAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>CommunicationCenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
